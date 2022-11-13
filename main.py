@@ -141,7 +141,7 @@ data_link = "https://docs.google.com/spreadsheets/d/11XvSfBHq-kSYZquztFrkjaJJpn6
 
 data_page = interactions.Button(
     style=interactions.ButtonStyle.LINK,
-    label="Data Taken From",
+    label="Data From",
     # custom_id="data",
     url = data_link,
     disabled = False
